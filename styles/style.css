@@ -1,12 +1,32 @@
 p { 
-    color: red;
+    font-size: x-large;
+    color: navy;
 }
 table { 
+    background-color: palevioletred;
+    margin: 50px;
+    padding: 10px;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: blue;
 }
 ul {
+    font-weight: bolder;
     color: orange;
 }
 ol {
+    font-style: italic;
+    text-decoration: overline;
     color: purple;
+}
+h1 {
+    word-spacing: 3em;
+    background-color: palegoldenrod;
+}
+img {
+    border-style: solid;
+    border-width: 20px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: plum;
 }
